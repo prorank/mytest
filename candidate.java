@@ -21,10 +21,10 @@ public class BallotUI
     private void displayMainMenu()
    {
        System.out.println("Options are");
-       System.out.println("    To vote for Fred          Enter 1");
-       System.out.println("    To vote for Bill          Enter 2");
-        System.out.println("    To vote for Joe           Enter 3");
-        System.out.println("    To vote for Jane          Enter 4");
+       System.out.println("    To vote for google         Enter 1");
+       System.out.println("    To vote for microsoft      Enter 2");
+        System.out.println("    To vote for amazon           Enter 3");
+        System.out.println("    To vote for hp          Enter 4");
         System.out.println("To close    Enter 0");
     }
     private void execute(int command)
